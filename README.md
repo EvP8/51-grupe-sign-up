@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: 
 
-Design: 
+Design: https://evp8.github.io/51-grupe-sign-up/
 
 ## 🎯 Project features/goals
 

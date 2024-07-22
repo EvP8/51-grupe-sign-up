@@ -8,9 +8,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://evp8.github.io/51-grupe-sign-up/
 
-Design: https://evp8.github.io/51-grupe-sign-up/
+Design: 
 
 ## 🎯 Project features/goals
 

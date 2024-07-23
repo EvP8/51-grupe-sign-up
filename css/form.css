@@ -6,9 +6,8 @@
     width: 100%;
     margin-bottom: 30px;
 }
-
 .form > .form-row:last-of-type {
-    margin-bottom: 0%;
+    margin-bottom: 0;
 }
 
 .form > .form-row > .label {
@@ -20,30 +19,25 @@
     color: #777;
 }
 
-.form > .form-row > .input{
+.form > .form-row > .input {
     width: 100%;
     border: none;
     border-bottom: 2px solid #777;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0;
 }
-
 .form > .form-row > .input:focus-visible {
-outline: 1px solid red;
+    outline: 1px solid red;
 }
 
-.form span{
+.form span {
     line-height: 40px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0 10px;
+}
 
-} 
-.form span a {
+.form a {
     line-height: 40px;
     text-decoration: none;
-} 
-
-.form span a:hover {
-    line-height: 40px;
-    text-decoration: underline;   
-} 
+}
+.form a:hover {
+    text-decoration: underline;
+}
